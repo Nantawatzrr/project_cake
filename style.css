@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100&display=swap');
+
+body{
+  font-family: 'Sarabun';
+}
+
+table, th, td{
+  text-align: center;
+  border: 1px solid black;
+  font-family: 'Garuda';
+}
+
+tr{
+  font-family: 'Garuda';
+}
+
+td{
+  font-family: 'Garuda';
+}
+.tr_head{
+  background-color: orange;
+}
+
+table{
+  border-collapse: collapse;
+  width:100%
+}
+  
